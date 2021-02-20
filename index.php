@@ -6,7 +6,6 @@
 <head>
   <meta http-equiv="content-type" content="text/html;charset=utf-8">
   <link rel="stylesheet" href="css/style.css" media="screen">
-  <link rel="stylesheet" href="css/style_movel.css" media="max-width:1024px">
   <title>conhecimento em programação</title>
 </head>
 
@@ -20,7 +19,6 @@
 
     <a href="#">
     <div class="bt_home">
-      <img src="img/bt_home_off.gif" class="bt_home" alt="">
     </div>
     </a>
 
